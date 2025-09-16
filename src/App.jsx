@@ -14,8 +14,6 @@ const App = () => {
         <Workflow />
       </div>
       
-      
-      
     </>
   )
 }
