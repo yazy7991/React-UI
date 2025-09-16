@@ -16,7 +16,7 @@ const Hero = () => {
         </p>
         <div className='flex justify-center my-10'>
           <a href='#' className='bg-gradient-to-r 
-          from-green-500 to-green-800 
+          from-orange-500 to-orange-800 
           rounded-md p-2 mx-3 cursor-pointer'>Start for free</a>
           <a href='#' className='border
           rounded-md p-2 mx-3 cursor-pointer'>Documentation</a>
